@@ -14,6 +14,7 @@ langchain = "^0.2.14"
 langchain-openai = "^0.1.22"
 langgraph = "^0.2.4"
 langchain-community = "^0.2.12"
+grandalf = "^0.8"
 
 
 [build-system]
