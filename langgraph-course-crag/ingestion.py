@@ -32,5 +32,3 @@ retriever = Chroma(
     persist_directory="./.chroma",
     embedding_function=OpenAIEmbeddings(),
 ).as_retriever()
-
-print("YO!")
