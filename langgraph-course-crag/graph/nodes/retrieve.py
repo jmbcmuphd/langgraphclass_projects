@@ -1,6 +1,6 @@
 from typing import Any, Dict
 from graph.state import GraphState
-from ingestion import retriever
+from ingestion_pinecone import retriever
 from dotenv import load_dotenv
 
 load_dotenv()

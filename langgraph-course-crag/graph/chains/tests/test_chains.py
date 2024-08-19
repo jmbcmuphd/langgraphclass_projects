@@ -1,6 +1,6 @@
 from dotenv import load_dotenv
 from graph.chains.retrieval_grader import GradeDocuments, retrieval_grader
-from ingestion import retriever
+from ingestion_pinecone import retriever
 
 load_dotenv()
 
