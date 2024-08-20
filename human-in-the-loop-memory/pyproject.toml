@@ -12,6 +12,7 @@ langchain-community = "^0.2.12"
 python-dotenv = "^1.0.1"
 black = "^24.8.0"
 isort = "^5.13.2"
+langgraph-checkpoint-sqlite = "^1.0.0"
 
 
 [build-system]
