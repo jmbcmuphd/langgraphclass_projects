@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "langgraph-course-crag"
+version = "0.1.0"
+description = ""
+authors = ["Jonathan M Becker, PhD <beckerjonphd@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.11, <3.13"
+beautifulsoup4 = "^4.12.3"
+langchain = "^0.2.14"
+langgraph = "^0.2.4"
+langchainhub = "^0.1.21"
+langchain-community = "^0.2.12"
+tavily-python = "^0.4.0"
+langchain-chroma = "^0.1.2"
+python-dotenv = "^1.0.1"
+black = "^24.8.0"
+isort = "^5.13.2"
+pytest = "^8.3.2"
+langchain-openai = "^0.1.22"
+pinecone = "^5.0.1"
+langchain-pinecone = "^0.1.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -17,6 +17,7 @@ qrcodes/
 qr_codes/
 *.csv
 *.png
+.chroma/
 
 # Distribution / packaging
 .Python
