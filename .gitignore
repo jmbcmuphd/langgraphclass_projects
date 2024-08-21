@@ -18,6 +18,8 @@ qr_codes/
 *.csv
 *.png
 .chroma/
+*.sqlite*
+identifier
 
 # Distribution / packaging
 .Python
